@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnnSyh&theme=vue&hide_border=&background=DDDB32)](https://git.io/streak-stats)
+
 
 <!--
 **AnnSyh/AnnSyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
