@@ -4,6 +4,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnnSyh&theme=vue&hide_border=&background=DDDB32)](https://git.io/streak-stats)
 
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
+
 
 <!--
 **AnnSyh/AnnSyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
