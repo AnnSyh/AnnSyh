@@ -18,9 +18,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnSyh&layout=compact" />
 </a>
 
- ![](https://komarev.com/ghpvc/?username=AnnSyh&color=green) 
-  ![](https://komarev.com/ghpvc/?username=AnnSyh&color=red) 
-   ![](https://komarev.com/ghpvc/?username=AnnSyh&color=blue) 
 
 <!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnnSyh&theme=vue&hide_border=&background=DDDB32)](https://git.io/streak-stats) -->
 
