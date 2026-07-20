@@ -107,7 +107,7 @@
 
 ## 📫 Контакты
 
-- 📧 **Email:** ann.syhaревskaya@gmail.com (в адресе кириллица, но я отвечаю)
+- 📧 **Email:** ann.syharevskaya@gmail.com 
 - 💬 **Telegram:** [@AnnSuh](https://t.me/AnnSuh)
 - 📱 **Телефон:** +7 (988) 537-23-01 (предпочтительно Telegram или почта)
 
